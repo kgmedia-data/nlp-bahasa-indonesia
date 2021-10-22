@@ -130,6 +130,7 @@ betulkah
 beud
 bgmn
 bgt
+bgtu
 biar
 biasa
 biasanya
@@ -149,6 +150,7 @@ boleh
 bolehkah
 bolehlah
 bpk
+brp
 bs
 bsa
 bsk
@@ -160,6 +162,7 @@ bukannya
 bulan
 bung
 bwt
+byk
 cara
 caranya
 cb
@@ -182,6 +185,7 @@ demi
 demikian
 demikianlah
 dengan
+dengn
 depan
 dg
 dgn
@@ -270,6 +274,7 @@ dll
 dlm
 dn
 dng
+dngan
 doang
 doank
 dong
@@ -294,6 +299,7 @@ ente
 g
 ga
 gak
+gimana
 gitu
 gk
 gt
@@ -327,7 +333,11 @@ hehehehe
 hendak
 hendaklah
 hendaknya
+hh
+hhh
 hingga
+hmm
+hmmm
 hny
 hrs
 hrus
@@ -453,6 +463,7 @@ kpd
 kpn
 kreatip
 krn
+krna
 ktm
 kurang
 ky
@@ -596,6 +607,8 @@ misalkan
 misalnya
 mjd
 mksd
+mlh
+mna
 mngalami
 mngubah
 mnjadi
@@ -617,6 +630,7 @@ nantinya
 napa
 ndak
 neh
+ngab
 ni
 nih
 njir
@@ -920,6 +934,7 @@ toh
 tp
 trs
 ttg
+tu
 tuh
 tuit
 tunjuk
