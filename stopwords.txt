@@ -1,4 +1,4 @@
-
+aamiin
 ada
 adalah
 adanya
@@ -283,6 +283,7 @@ dr
 dri
 drpd
 dsar
+dst
 dua
 dulu
 dy
@@ -357,6 +358,11 @@ inginkan
 ini
 inikah
 inilah
+insaallah
+insallah
+insyaa allah
+insyaallah
+insyallah
 itu
 itukah
 itulah
@@ -484,6 +490,7 @@ lebih
 lewat
 lg
 lgsg
+lho
 lht
 liat
 liatin
@@ -499,6 +506,7 @@ macam
 maka
 makanya
 makin
+maksud
 malah
 malahan
 mampu
@@ -645,6 +653,7 @@ oh
 ohh
 ok
 okay
+oke
 oleh
 olehnya
 olh
@@ -978,6 +987,7 @@ ya
 yaitu
 yakin
 yakni
+yan9
 yang
 yg
 yng
