@@ -8,6 +8,7 @@ agaknya
 agar
 ah
 aja
+akal
 akan
 akankah
 akhir
@@ -46,6 +47,7 @@ ataukah
 ataupun
 awal
 awalnya
+ayo
 bag
 bagai
 bagaikan
@@ -66,6 +68,7 @@ banyak
 bapak
 baru
 bawah
+bebas
 beberapa
 begini
 beginian
@@ -134,10 +137,12 @@ bgtu
 biar
 biasa
 biasanya
+biaya
 bila
 bilakah
 bisa
 bisakah
+bisnis
 bkan
 bkn
 bl
@@ -150,17 +155,21 @@ boleh
 bolehkah
 bolehlah
 bpk
+bro
 brp
 bs
 bsa
 bsk
+bu
 buat
 bukan
 bukankah
 bukanlah
 bukannya
+bukti
 bulan
 bung
+butuh
 bwt
 byk
 cara
@@ -297,6 +306,7 @@ enggaknya
 entah
 entahlah
 ente
+formula
 g
 ga
 gak
@@ -312,6 +322,7 @@ guna
 gunakan
 gw
 ha
+habis
 hadeh
 haduh
 haha
@@ -319,6 +330,7 @@ hahah
 hahaha
 hahahaha
 hal
+ham
 hampir
 hanya
 hanyalah
@@ -343,6 +355,7 @@ hny
 hrs
 hrus
 hue
+hukuman
 ia
 ialah
 ibarat
@@ -397,6 +410,7 @@ jumlah
 jumlahnya
 justru
 kala
+kalah
 kalau
 kalaulah
 kalaupun
@@ -413,6 +427,7 @@ kapanpun
 karena
 karenanya
 karna
+kasihan
 kasus
 kata
 katakan
@@ -514,6 +529,7 @@ mampukah
 mana
 manakala
 manalagi
+mantap
 masa
 masalah
 masalahnya
@@ -639,9 +655,11 @@ napa
 ndak
 neh
 ngab
+ngomong
 ni
 nih
 njir
+nkri
 np
 ntn
 ny
@@ -688,6 +706,7 @@ pihak
 pihaknya
 plh
 poling
+polri
 prbndngan
 president
 prnh
@@ -867,6 +886,7 @@ sngt
 soal
 soalnya
 sodara
+sok
 spt
 suatu
 sudah
@@ -962,6 +982,7 @@ umumnya
 ungkap
 ungkapnya
 untuk
+urusan
 usah
 usai
 utk
